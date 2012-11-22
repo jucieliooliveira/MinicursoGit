@@ -1,4 +1,4 @@
-MiniicursoGit
+MinicursoGit
 =============
 
-Minicuso  vesionamento git
+Minicuso  versionamento de codigo com GIT
